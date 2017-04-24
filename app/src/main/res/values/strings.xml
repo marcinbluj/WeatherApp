@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="select_a_city">Select a city</string>
+    <string name="temp">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="error">Some error occurred. Check your internet connection.</string>
+    <string name="refresh">Refresh</string>
+    <string name="outdated_info">Data may be outdated.</string>
+</resources>

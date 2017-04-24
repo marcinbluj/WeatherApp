@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="select_a_city">Wybierz miasto</string>
+    <string name="temp">Temperatura</string>
+    <string name="pressure">Ciśnienie</string>
+    <string name="wind_speed">Prędkość wiatru</string>
+    <string name="error">Wystąpił błąd. Sprawdź połączenie z internetem.</string>
+    <string name="refresh">Odśwież</string>
+    <string name="outdated_info">Dane mogą być nieaktualne.</string>
+</resources>

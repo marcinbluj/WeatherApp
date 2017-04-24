@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Białystok</item>
+        <item>Gdańsk</item>
+        <item>Katowice</item>
+        <item>Kraków</item>
+        <item>Lublin</item>
+        <item>Łódź</item>
+        <item>Poznań</item>
+        <item>Szczecin</item>
+        <item>Warszawa</item>
+        <item>Wrocław</item>
+        <item>Zakopane</item>
+    </string-array>
+</resources>
